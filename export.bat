@@ -1,0 +1,1 @@
+C:\Users\asus\esp\esp-idf-v4.4.2\export.bat
